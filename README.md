@@ -1,7 +1,7 @@
 ## *Patika.dev - Javascript :*
 
 1. **Ödev 1 :**
-    - **Görsel  <img src= "./img/Javascript ödev-1.png">
+    - **Görsel  <img src= "./img/js_img.png">
    
     - **Ödev :** Kullanıcıdan bilgi alan ve güncel günü ve zamanı otomatik olarak gösteren bir dijital saat uygulaması.
 
